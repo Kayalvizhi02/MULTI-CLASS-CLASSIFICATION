@@ -28,12 +28,40 @@ Scores from the last layer are passed through a SoftMax layer. The SoftMax layer
 4. Plot the x and y values in the chart using mathplotlib.pyplot.
 5. Label the values of x and y axis and add title to the graph.
 6. Save the file and execute the program.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 ## Program:
-
-### Program to implement the multi class classifier.
-### Developed by: KAYALVIZHI M
-### RegisterNumber: 212220230024 
+```
+Program to implement the multi class classifier.
+Developed by: KAYALVIZHI M
+RegisterNumber: 212220230024 
+```
 ```python
 from numpy import where
 from collections import Counter
@@ -51,6 +79,32 @@ for label, _ in counter.items():
 pyplot.legend()
 pyplot.show()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ![img](https://user-images.githubusercontent.com/75413726/164184815-ae7fe8a0-f9c0-4b53-b5f2-de820edc3988.jpg)
 
